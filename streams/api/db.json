@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "my first stream",
+      "id": 2
+    },
+    {
+      "title": "I create this stream",
+      "description": "This was made by me",
+      "id": 5
+    },
+    {
+      "title": "dss",
+      "description": "sds",
+      "id": 6
+    }
+  ]
+}
